@@ -1,4 +1,8 @@
 _repo: Hovey-s-Handbook-of-The-Mammoth-Cave-of-Kentucky-A-Practical-Guide-to-the-Regulation-Routes_49130
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49130-h/images/cover.jpg
 creator:
   author:
     agent_name: Hovey, Horace Carver
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45156'
     url: http://www.gutenberg.org/2009/agents/45156
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49130#Hovey-s-Handbook-of-The-Mammoth-Cave-of-Kentucky-A-Practical-Guide-to-the-Regulation-Routes
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
